@@ -1,22 +1,20 @@
 [
   {
-    "data": {
-        "project_id": "1",
-        "artist_name": 	"Pablo Picasso",
-        "project_name":	"The Old Guitarist",
-        "elevator_pitch": "A small painting of an old guitarist, hunched over his instrument.",
-        "description": "The Old Guitarist was painted in 1903, just after the suicide death of Picasso's close friend, Casagemas. During this time, the artist was sympathetic to the plight of the downtrodden and painted many canvases depicting the miseries of the poor, the ill, and those cast out of society. He too knew what it was like to be impoverished, having been nearly penniless during all of 1902. This work was created in Madrid, and the distorted style (note that the upper torso of the guitarist seems to be reclining, while the bottom half appears to be sitting cross-legged) is reminiscent of the works of El Greco.",
-        "image": "https://m.media-amazon.com/images/I/71pYXY0cXDL._AC_SS450_.jpg",
-        "video": "https://www.youtube.com/watch?v=SsRldh2cgVY"
-    },
-    {
-      "project_id": "2",
-      "artist_name": 	"Joe Piscapo",
-      "project_name":	"The Young Guitarist",
-      "elevator_pitch": "A large painting of an old guitarist, hunched over his instrument.",
-      "description": "The Young Guitarist was painted in 1993, just after the suicide death of Picasso's close friend, Casagemas. During this time, the artist was sympathetic to the plight of the downtrodden and painted many canvases depicting the miseries of the poor, the ill, and those cast out of society. He too knew what it was like to be impoverished, having been nearly penniless during all of 1902. This work was created in Madrid, and the distorted style (note that the upper torso of the guitarist seems to be reclining, while the bottom half appears to be sitting cross-legged) is reminiscent of the works of El Greco.",
-      "image": "https://m.media-amazon.com/images/I/71pYXY0cXDL._AC_SS450_.jpg",
-      "video": "https://www.youtube.com/watch?v=SsRldh2cgVY"
-    }
+  	"project_id": "1",
+  	"artist_name": "Pablo Picasso",
+  	"project_name": "The Old Guitarist",
+  	"elevator_pitch": "A small painting of an old guitarist, hunched over his instrument.",
+  	"description": "The Old Guitarist was painted in 1903, just after the suicide death of Picasso's close friend, Casagemas. During this time, the artist was sympathetic to the plight of the downtrodden and painted many canvases depicting the miseries of the poor, the ill, and those cast out of society. He too knew what it was like to be impoverished, having been nearly penniless during all of 1902. This work was created in Madrid, and the distorted style (note that the upper torso of the guitarist seems to be reclining, while the bottom half appears to be sitting cross-legged) is reminiscent of the works of El Greco.",
+  	"image": "https://m.media-amazon.com/images/I/71pYXY0cXDL._AC_SS450_.jpg",
+  	"video": "https://www.youtube.com/watch?v=SsRldh2cgVY"
+  },
+  {
+  	"project_id": "2",
+  	"artist_name": "Joe Piscapo",
+  	"project_name": "The Young Guitarist",
+  	"elevator_pitch": "A large painting of an old guitarist, hunched over his instrument.",
+  	"description": "The Young Guitarist was painted in 1993, just after the suicide death of Picasso's close friend, Casagemas. During this time, the artist was sympathetic to the plight of the downtrodden and painted many canvases depicting the miseries of the poor, the ill, and those cast out of society. He too knew what it was like to be impoverished, having been nearly penniless during all of 1902. This work was created in Madrid, and the distorted style (note that the upper torso of the guitarist seems to be reclining, while the bottom half appears to be sitting cross-legged) is reminiscent of the works of El Greco.",
+  	"image": "https://m.media-amazon.com/images/I/71pYXY0cXDL._AC_SS450_.jpg",
+  	"video": "https://www.youtube.com/watch?v=SsRldh2cgVY"
   }
 ]
