@@ -6,7 +6,7 @@
   	"description": "It is a piece of work about the miracles of nature. Because existence is reasonable, so we take every creature as resources for granted. But actually they are the multiplication of countless miracles of an extrenely slow process. This is a miracle of seeing a whale due to the moire effect of the two wood pieces when there is no human interference. The ambition of rotating the installation of human being's would make the miracle imperceptionable.",
     "website" : "https://www.lu-lyu.com/portfolio/miracle/",
   	"images": "",
-    "videos:" {
+    "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
       "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
       "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
@@ -25,7 +25,7 @@
       "https://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
       "https://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
     ],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": ""
@@ -38,7 +38,7 @@
     "description": "Our project is a reflection on the possibilities of microbiomes to be used as a form of cultural archive. Based on the emerging science linking microbiomes to terroir in wine and other foods, we imagine a future where we can capture place and time with the microorganisms living in that moment.",
     "website" : "https://www.timeplaceculture.com",
     "images": "",
-    "videos:" {
+    "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/video/nikhil-and-sara/time-place-culture.mp4",
       "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
       "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
@@ -52,7 +52,7 @@
     "description": "Post Wonderland 1.0 is the first production of the on-going experimental project “Post Wonderland” that explores the potential relationship between a fantasized post-human civilization and nature. The project is inspired by the collision and contradictory development of human civilization, technology, and natural elements in present society. Artistically depicting a virtual parallel era in which most of human civilization has been annihilated, nature and the ruins of technology become the center of the world.",
     "website" : "https://www.charlinwu.com/post-wonderland-10",
     "images": "",
-    "videos:" {
+    "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/video/charlin/post-wonderland.mp4",
       "alt": "https://vimeo.com/521020816",
       "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
@@ -68,7 +68,7 @@
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/tinrey/cover+-+Tinrey+Wang.jpg"
     ],
-    "videos:" {
+    "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/video/tinrey/cold-boiled-wonderland.mp4",
       "alt": "https://youtu.be/k9tZcBlquCg",
       "mux_playback_id": "jIPjhYtOYNnz2abdMXC4su7bE6ZbMsFUnhuz9GJExEI",
@@ -84,7 +84,7 @@
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
     ],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
@@ -98,7 +98,7 @@
     "description": "",
     "website" : "https://google.com",
     "images": [],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
@@ -112,7 +112,7 @@
     "description": "",
     "website" : "",
     "images": [],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
@@ -126,7 +126,7 @@
     "description": "",
     "website" : "",
     "images": [],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
@@ -140,7 +140,7 @@
     "description": "",
     "website" : "",
     "images": [],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
@@ -154,7 +154,7 @@
     "description": "",
     "website" : "",
     "images": [],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
@@ -168,7 +168,7 @@
     "description": "",
     "website" : "",
     "images": [],
-    "videos:" {
+    "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
