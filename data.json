@@ -193,9 +193,7 @@
     "website" : "",
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro001.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro002.jpeg",
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro003.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro004.jpeg",
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro005.jpeg",
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro006.jpeg",
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro007.jpeg",
@@ -208,13 +206,23 @@
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro014.jpeg",
       "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro015.jpeg"
     ],
-    "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
-      "volume_factor" : 1.0,
-      "date" : "May 9, 2019"
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro002.mp4",
+        "alt": "",
+        "mux_playback_id": "",
+        "mux_asset_id" : "",
+        "volume_factor" : 1.0
+      },
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro004.mp4",
+        "alt": "",
+        "mux_playback_id": "",
+        "mux_asset_id" : "",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : "May 9, 2019"
     }
   }
 ]
