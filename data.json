@@ -6,14 +6,16 @@
   	"description": "It is a piece of work about the miracles of nature. Because existence is reasonable, so we take every creature as resources for granted. But actually they are the multiplication of countless miracles of an extrenely slow process. This is a miracle of seeing a whale due to the moire effect of the two wood pieces when there is no human interference. The ambition of rotating the installation of human being's would make the miracle imperceptionable.",
     "website" : "https://www.lu-lyu.com/portfolio/miracle/",
   	"images": [],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/lu/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_playback_id": "IsxYbGznOWLGLwEUwBMG7yG66XlXRpkzTRqvsGHFlCk",
-      "mux_asset_id" : "x4PpT8IgUpDUdPwBrGMqiI8CCdNcRbhBTJENVRLMgto",
-      "volume_factor" : 1.0,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/lu/25-miracle.mp4",
+        "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+        "mux_playback_id": "IsxYbGznOWLGLwEUwBMG7yG66XlXRpkzTRqvsGHFlCk",
+        "mux_asset_id" : "x4PpT8IgUpDUdPwBrGMqiI8CCdNcRbhBTJENVRLMgto",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : ""
   },
   {
   	"project_id": "2",
@@ -28,14 +30,16 @@
       "https://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
       "https://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
     ],
-    "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
-      "volume_factor" : 1.0,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "",
+        "alt": "",
+        "mux_playback_id": "",
+        "mux_asset_id" : "",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : ""
   },
   {
     "project_id": "3",
@@ -44,14 +48,16 @@
     "description": "Our project is a reflection on the possibilities of microbiomes to be used as a form of cultural archive. Based on the emerging science linking microbiomes to terroir in wine and other foods, we imagine a future where we can capture place and time with the microorganisms living in that moment.",
     "website" : "https://www.timeplaceculture.com",
     "images": [],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/nikhil-and-sara/time-place-culture.mp4",
-      "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
-      "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
-      "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM",
-      "volume_factor" : 1.0,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/nikhil-and-sara/time-place-culture.mp4",
+        "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
+        "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
+        "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : ""
   },
   {
     "project_id": "4",
@@ -60,14 +66,16 @@
     "description": "Post Wonderland 1.0 is the first production of the on-going experimental project “Post Wonderland” that explores the potential relationship between a fantasized post-human civilization and nature. The project is inspired by the collision and contradictory development of human civilization, technology, and natural elements in present society. Artistically depicting a virtual parallel era in which most of human civilization has been annihilated, nature and the ruins of technology become the center of the world.",
     "website" : "https://www.charlinwu.com/post-wonderland-10",
     "images": [],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/charlin/post-wonderland.mp4",
-      "alt": "https://vimeo.com/521020816",
-      "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
-      "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc",
-      "volume_factor" : 0.5,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/charlin/post-wonderland.mp4",
+        "alt": "https://vimeo.com/521020816",
+        "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
+        "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc",
+        "volume_factor" : 0.5
+      }
+    ],
+    "date" : ""
   },
   {
     "project_id": "5",
@@ -78,14 +86,16 @@
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/tinrey/cover+-+Tinrey+Wang.jpg"
     ],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/tinrey/cold-boiled-wonderland.mp4",
-      "alt": "https://youtu.be/k9tZcBlquCg",
-      "mux_playback_id": "yBM00uTmmjHWvwcHSpJ02PNcay9eDwS44EBBUc7rUsYug",
-      "mux_asset_id" : "xcPnoRlZQtH1Fm8LHHieMf02csSnabC5po6bNf3Ynxqc",
-      "volume_factor" : 0.75,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/tinrey/cold-boiled-wonderland.mp4",
+        "alt": "https://youtu.be/k9tZcBlquCg",
+        "mux_playback_id": "yBM00uTmmjHWvwcHSpJ02PNcay9eDwS44EBBUc7rUsYug",
+        "mux_asset_id" : "xcPnoRlZQtH1Fm8LHHieMf02csSnabC5po6bNf3Ynxqc",
+        "volume_factor" : 0.75
+      }
+    ],
+    "date" : ""
   },
   {
     "project_id": "6",
@@ -96,14 +106,16 @@
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
     ],
-    "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
-      "volume_factor" : 1.0,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "",
+        "alt": "",
+        "mux_playback_id": "",
+        "mux_asset_id" : "",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : ""
   },
   {
     "project_id": "7",
@@ -114,14 +126,16 @@
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/yiting/sunandus_demo+-+Yiting+Liu.png"
     ],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/yiting/sun-and-us.mp4",
-      "alt": "https://vimeo.com/539433598",
-      "mux_playback_id": "mlrAu3VvBGkULPuQyBeXP7r7OJO00fgDd302fMjQHphD4",
-      "mux_asset_id" : "Qan5semlh1FTHjdQAsJ2TpmiLbLXTGMoEFb101qQohbM",
-      "volume_factor" : 1.0,
-      "date" : "August, 2020"
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/yiting/sun-and-us.mp4",
+        "alt": "https://vimeo.com/539433598",
+        "mux_playback_id": "mlrAu3VvBGkULPuQyBeXP7r7OJO00fgDd302fMjQHphD4",
+        "mux_asset_id" : "Qan5semlh1FTHjdQAsJ2TpmiLbLXTGMoEFb101qQohbM",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : "August, 2020"
   },
   {
     "project_id": "8",
@@ -138,14 +152,16 @@
       "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(5).jpg",
       "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg"
     ],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/huh/whale-story.mp4",
-      "alt": "https://vimeo.com/539725788",
-      "mux_playback_id": "MI4WR1YnKQS5Qg1p01xKc1F3PWtowI2FQDwqisjvecBw",
-      "mux_asset_id" : "q6TlOwTZUKwbdy01ViRcm402zm9SiKUMNPkPr41zzN9tA",
-      "volume_factor" : 1.0,
-      "date" : "March 10, 2021 (Ongoing)"
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/huh/whale-story.mp4",
+        "alt": "https://vimeo.com/539725788",
+        "mux_playback_id": "MI4WR1YnKQS5Qg1p01xKc1F3PWtowI2FQDwqisjvecBw",
+        "mux_asset_id" : "q6TlOwTZUKwbdy01ViRcm402zm9SiKUMNPkPr41zzN9tA",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : "March 10, 2021 (Ongoing)"
   },
   {
     "project_id": "9",
@@ -160,14 +176,16 @@
       "https://buds-gallery.s3.amazonaws.com/images/viola/spherical4+-+Viola+He.jpg",
       "https://buds-gallery.s3.amazonaws.com/images/viola/spherical5+-+Viola+He.jpg"
     ],
-    "videos": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/video/viola/yes.mp4",
-      "alt": "https://vimeo.com/478172230",
-      "mux_playback_id": "ir005TOf7EGtPpceXjNylia01XQRTU301mceNbKJGOwRKA",
-      "mux_asset_id" : "vvktgsk01Zi9186GbMEYJdCtMuMB1hMfKc41z2cjhxps",
-      "volume_factor" : 1.0,
-      "date" : ""
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.s3.amazonaws.com/video/viola/yes.mp4",
+        "alt": "https://vimeo.com/478172230",
+        "mux_playback_id": "ir005TOf7EGtPpceXjNylia01XQRTU301mceNbKJGOwRKA",
+        "mux_asset_id" : "vvktgsk01Zi9186GbMEYJdCtMuMB1hMfKc41z2cjhxps",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : ""
   },
   {
     "project_id": "10",
