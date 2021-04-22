@@ -5,76 +5,90 @@
   	"project_name": "2.5% Miracles",
   	"description": "It is a piece of work about the miracles of nature. Because existence is reasonable, so we take every creature as resources for granted. But actually they are the multiplication of countless miracles of an extrenely slow process. This is a miracle of seeing a whale due to the moire effect of the two wood pieces when there is no human interference. The ambition of rotating the installation of human being's would make the miracle imperceptionable.",
     "website" : "https://www.lu-lyu.com/portfolio/miracle/",
-  	"image": "",
-    "video": {
+  	"images": "",
+    "videos:" {
       "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
       "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+      "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
     }
   },
   {
   	"project_id": "2",
-  	"artist_name": "",
-  	"project_name": "",
-  	"description": "",
-    "website" : "https://google.com",
-  	"image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+  	"artist_name": "Dalit Steinbrecher",
+  	"project_name": "The second first impression",
+  	"description": "“The second first impression” is a project that created for the “100 day in the making” class. For the last one hundred days I dyed, tore, sewed, glued, folded and did various manipulations on existing images. The images were from magazines and vintage postcards I found on flea markets. I wanted to recycle an existing image - take it as is - manipulate it - and through that, given it a new meaning. The creation process is never final, we can keep creating from previous creations. I hope someone will take this project and recycle it as well.",
+    "website" : "https://www.instagram.com/the_second_first_impression/?hl=en",
+  	"images": [
+      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+1+-+Dalit+Steinbrecher+small.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+21+-+Dalit+Steinbrecher.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+42+-+Dalit+Steinbrecher.JPG",
+      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
+    ],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": ""
     }
   },
   {
     "project_id": "3",
-    "artist_name": "",
+    "artist_name": "Nikhil Kumar and Sara Nejad",
     "project_name": "",
-    "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "description": "Our project is a reflection on the possibilities of microbiomes to be used as a form of cultural archive. Based on the emerging science linking microbiomes to terroir in wine and other foods, we imagine a future where we can capture place and time with the microorganisms living in that moment.",
+    "website" : "https://www.timeplaceculture.com",
+    "images": "",
+    "videos:" {
+      "aws": "https://buds-gallery.s3.amazonaws.com/video/nikhil-and-sara/time-place-culture.mp4",
+      "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
+      "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
+      "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM"
     }
   },
   {
     "project_id": "4",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "artist_name": "Charlin Wu",
+    "project_name": "Post Wonderland 1.0",
+    "description": "Post Wonderland 1.0 is the first production of the on-going experimental project “Post Wonderland” that explores the potential relationship between a fantasized post-human civilization and nature. The project is inspired by the collision and contradictory development of human civilization, technology, and natural elements in present society. Artistically depicting a virtual parallel era in which most of human civilization has been annihilated, nature and the ruins of technology become the center of the world.",
+    "website" : "https://www.charlinwu.com/post-wonderland-10",
+    "images": "",
+    "videos:" {
+      "aws": "https://buds-gallery.s3.amazonaws.com/video/charlin/post-wonderland.mp4",
+      "alt": "https://vimeo.com/521020816",
+      "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
+      "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc"
     }
   },
   {
     "project_id": "5",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "artist_name": "Tinrey Wang",
+    "project_name": "Cold-Boiled Wonderland",
+    "description": "In Cold-Boiled Wonderland, Wang was trying to use visual languages to depict a desolate post-apocalyptic world where most of species had gone extinct and civilizations had become ruins and sands due to environmental damage. However, from the ruins new life starts to be born as a flower blooms from the ground.",
+    "website" : "",
+    "images": [
+      "https://buds-gallery.s3.amazonaws.com/images/tinrey/cover+-+Tinrey+Wang.jpg"
+    ],
+    "videos:" {
+      "aws": "https://buds-gallery.s3.amazonaws.com/video/tinrey/cold-boiled-wonderland.mp4",
+      "alt": "https://youtu.be/k9tZcBlquCg",
+      "mux_playback_id": "jIPjhYtOYNnz2abdMXC4su7bE6ZbMsFUnhuz9GJExEI",
+      "mux_asset_id" : "uyigOa8jRiaZQjnQzWyE7v6y02mmoJuGWQ9aehPAAvig"
     }
   },
   {
     "project_id": "6",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "artist_name": "Reto Zarch",
+    "project_name": "Weather Robots",
+    "description": "This is an evolution graph of weather forecasting robots from 2021 to apocalypse. The relationship between technology and climate change is a reinforcing loop. As we advance our technology, the greater climate change will be; the more severe climate change is, the more we need to proceed on advancing technology.",
+    "website" : "",
+    "images": [
+      "https://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
+    ],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   },
   {
@@ -83,11 +97,12 @@
     "project_name": "",
     "description": "",
     "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "images": [],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   },
   {
@@ -95,12 +110,13 @@
     "artist_name": "",
     "project_name": "",
     "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "website" : "",
+    "images": [],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   },
   {
@@ -108,12 +124,13 @@
     "artist_name": "",
     "project_name": "",
     "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "website" : "",
+    "images": [],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   },
   {
@@ -121,12 +138,13 @@
     "artist_name": "",
     "project_name": "",
     "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "website" : "",
+    "images": [],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   },
   {
@@ -134,12 +152,13 @@
     "artist_name": "",
     "project_name": "",
     "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "website" : "",
+    "images": [],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   },
   {
@@ -147,12 +166,13 @@
     "artist_name": "",
     "project_name": "",
     "description": "",
-    "website" : "https://google.com",
-    "image": "",
-    "video": {
-      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
-      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    "website" : "",
+    "images": [],
+    "videos:" {
+      "aws": "",
+      "alt": "",
+      "mux_playback_id": "",
+      "mux_asset_id" : ""
     }
   }
 ]
