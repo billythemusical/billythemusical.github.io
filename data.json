@@ -11,7 +11,8 @@
       "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
       "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
@@ -32,7 +33,8 @@
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
@@ -47,7 +49,8 @@
       "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
       "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
       "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM",
-      "volume_factor" : 0.7
+      "volume_factor" : 0.7,
+      "date" : ""
     }
   },
   {
@@ -62,7 +65,8 @@
       "alt": "https://vimeo.com/521020816",
       "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
       "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc",
-      "volume_factor" : 0.5
+      "volume_factor" : 0.5,
+      "date" : ""
     }
   },
   {
@@ -79,7 +83,8 @@
       "alt": "https://youtu.be/k9tZcBlquCg",
       "mux_playback_id": "jIPjhYtOYNnz2abdMXC4su7bE6ZbMsFUnhuz9GJExEI",
       "mux_asset_id" : "uyigOa8jRiaZQjnQzWyE7v6y02mmoJuGWQ9aehPAAvig",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
@@ -96,22 +101,24 @@
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
     "project_id": "7",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "https://google.com",
+    "artist_name": "Yiting Liu",
+    "project_name": "Sun and Us",
+    "description": "An interactive audio experience that creates a symphony of field recordings from the sun and us.<br><br>Nature has always been a part I want to explore. When I was little, I went to the park near our home with my grandma frequently. The wind blowing through the willows, the birds bringing their music while flying, and the people chatting and laughing are so interesting to me. They are like a symphony. Yet, as I grow older, I spend less time in the park, or with the nature. I want to forever remember the memory I had when I was little, with my grandma, playing, and listening to the sounds.<br><br>That’s why I want to recreate that experience for me, for you, and for all of us who yearns for connections with people, nature, and within.",
+    "website" : "https://sunandus.netlify.app/",
     "images": [],
     "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : "August, 2020"
     }
   },
   {
@@ -126,7 +133,8 @@
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
@@ -141,7 +149,8 @@
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
@@ -156,7 +165,8 @@
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   },
   {
@@ -171,7 +181,8 @@
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
-      "volume_factor" : 1.0
+      "volume_factor" : 1.0,
+      "date" : ""
     }
   }
 ]
