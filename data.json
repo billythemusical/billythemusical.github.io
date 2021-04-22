@@ -173,32 +173,48 @@
     "project_id": "10",
     "artist_name": "Aidan Lincoln",
     "project_name": "",
-    "description": "",
-    "website" : "",
+    "description": "Star Tunnel is a physical light sculpture consisting of a 448x32 pixel circular screen embedded inside of an infinity mirror. The video playing on the led screens is a particle system designed to look like the night sky. The particles are influenced by algorithms simulating natural phenomena such as wind and turbulent flow and are then pushed through  a moving 'window' to create an illusions that you are moving through a tunnel of stars.",
+    "website" : "https://www.aidanlincoln.com/thesis",
     "images": [],
     "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
+      "aws": "https://buds-gallery.undefined/video/aidan/StarTunnel.mp4",
+      "alt": "https://youtu.be/KBhgKugrE0Q",
+      "mux_playback_id": "lY7YYrD2zXHsHpIWUD902U01UGic9D7AGaG92z2nIZX5A",
+      "mux_asset_id" : "TXn5aUd4v02yoFS01zCXrFWUKcwXyQkUZ3CGy1bel91kE",
       "volume_factor" : 1.0,
-      "date" : ""
+      "date" : "2021"
     }
   },
   {
     "project_id": "11",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
+    "artist_name": "Mary Notari",
+    "project_name": "Tomato \ Xitomatl \ Tomate \ Pomodoro",
+    "description": "With an understanding of cooking as repertoire (i.e., an embodied archive of knowledge), I created an apron using dried tomatoes, a plant native to the Americas. In a live performance in May 2019, I donned the tomato apron over a modest dress and reconstituted the garment into tomato sauce to serve with corn polenta in real time. The performance was meant to evoke the history of dispossession within the Americas by the European conquest and invites all present to consume the literal fruits of my labor. It is an interruption of the displacement of knowledge that is recreated in every pot of marinara. At the same time, it celebrates the centuries of feminized, domestic labor that is the work of sustaining appetites, memory, and community even through migration. Through the making of the tomato-garment, I deconstruct and reform the seemingly fixed reality of the tomato. Through the making of the sauce in communion around the hearth (or, in this case, a hotplate), the participants reconstitute the traumas of our pasts into a new, shared future.",
     "website" : "",
-    "images": [],
+    "images": [
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro001.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro002.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro003.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro004.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro005.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro006.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro007.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro008.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro009.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro010.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro011.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro012.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro013.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro014.jpeg",
+      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro015.jpeg"
+    ],
     "videos": {
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
       "mux_asset_id" : "",
       "volume_factor" : 1.0,
-      "date" : ""
+      "date" : "May 9, 2019"
     }
   }
 ]
