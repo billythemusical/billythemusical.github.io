@@ -10,6 +10,7 @@
       "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
       "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
       "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw",
+      "mux_asset_id" : "",
       "volume_factor" : 1.2
     }
   },
@@ -29,7 +30,9 @@
     "videos": {
       "aws": "",
       "alt": "",
-      "mux_playback_id": ""
+      "mux_playback_id": "",
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   },
   {
