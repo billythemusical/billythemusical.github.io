@@ -11,7 +11,7 @@
       "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
       "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw",
       "mux_asset_id" : "",
-      "volume_factor" : 1.2
+      "volume_factor" : 1.0
     }
   },
   {
@@ -47,7 +47,7 @@
       "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
       "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
       "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM",
-      "volume_factor" : 0.5
+      "volume_factor" : 0.7
     }
   },
   {
