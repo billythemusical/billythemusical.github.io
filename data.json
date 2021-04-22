@@ -49,7 +49,7 @@
       "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
       "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
       "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM",
-      "volume_factor" : 0.7,
+      "volume_factor" : 1.0,
       "date" : ""
     }
   },
@@ -81,8 +81,8 @@
     "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/video/tinrey/cold-boiled-wonderland.mp4",
       "alt": "https://youtu.be/k9tZcBlquCg",
-      "mux_playback_id": "jIPjhYtOYNnz2abdMXC4su7bE6ZbMsFUnhuz9GJExEI",
-      "mux_asset_id" : "uyigOa8jRiaZQjnQzWyE7v6y02mmoJuGWQ9aehPAAvig",
+      "mux_playback_id": "yBM00uTmmjHWvwcHSpJ02PNcay9eDwS44EBBUc7rUsYug",
+      "mux_asset_id" : "xcPnoRlZQtH1Fm8LHHieMf02csSnabC5po6bNf3Ynxqc",
       "volume_factor" : 1.0,
       "date" : ""
     }
