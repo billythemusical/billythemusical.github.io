@@ -83,7 +83,7 @@
       "alt": "https://youtu.be/k9tZcBlquCg",
       "mux_playback_id": "yBM00uTmmjHWvwcHSpJ02PNcay9eDwS44EBBUc7rUsYug",
       "mux_asset_id" : "xcPnoRlZQtH1Fm8LHHieMf02csSnabC5po6bNf3Ynxqc",
-      "volume_factor" : 1.0,
+      "volume_factor" : 0.75,
       "date" : ""
     }
   },
@@ -111,12 +111,14 @@
     "project_name": "Sun and Us",
     "description": "An interactive audio experience that creates a symphony of field recordings from the sun and us.<br><br>Nature has always been a part I want to explore. When I was little, I went to the park near our home with my grandma frequently. The wind blowing through the willows, the birds bringing their music while flying, and the people chatting and laughing are so interesting to me. They are like a symphony. Yet, as I grow older, I spend less time in the park, or with the nature. I want to forever remember the memory I had when I was little, with my grandma, playing, and listening to the sounds.<br><br>That’s why I want to recreate that experience for me, for you, and for all of us who yearns for connections with people, nature, and within.",
     "website" : "https://sunandus.netlify.app/",
-    "images": [],
+    "images": [
+      "https://buds-gallery.s3.amazonaws.com/images/yiting/sunandus_demo+-+Yiting+Liu.png"
+    ],
     "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
+      "aws": "https://buds-gallery.s3.amazonaws.com/video/yiting/sun-and-us.mp4",
+      "alt": "https://vimeo.com/539433598",
+      "mux_playback_id": "mlrAu3VvBGkULPuQyBeXP7r7OJO00fgDd302fMjQHphD4",
+      "mux_asset_id" : "Qan5semlh1FTHjdQAsJ2TpmiLbLXTGMoEFb101qQohbM",
       "volume_factor" : 1.0,
       "date" : "August, 2020"
     }
