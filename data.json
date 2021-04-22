@@ -125,18 +125,26 @@
   },
   {
     "project_id": "8",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "",
-    "images": [],
+    "artist_name": "Huh Jung",
+    "project_name": "The Whale Story",
+    "description": "The whale story is designed for the American Museum of Natural History. It is an AR experience bringing users into the ocean, and it allows users to bring whales back to life under the gigantic blue whale model in the Hall of Ocean Life.<br><br>Users can learn about the behaviors of blue whales by observing how a blue whale swims around the hall and feeds on krill. When the blue whale eats, it accelerates first. Then, it takes in a huge amount of water, engulfing krill.  Finally, it expels the water during the filtering phase.<br><br>Users can also learn what we can do to protect the blue whale from ocean pollution. Blue whales are facing environmental issues. The ocean is polluted by our plastic wastes. Micro-plastics are everywhere in the ocean, accumulating inside krill. We want to convey that we can protect our ocean and the earth from little but essential actions.",
+    "website" : "https://drive.google.com/file/d/1O2GMu88a6D9ju-4jqQLmVrdeeEiVn0TT/view?usp=sharing",
+    "images": [
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds.jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(1).jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(2).jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(3).jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(4).jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(5).jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg",
+    ],
     "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
+      "aws": "https://buds-gallery.s3.amazonaws.com/video/huh/whale-story.mp4",
+      "alt": "https://vimeo.com/539725788",
+      "mux_playback_id": "MI4WR1YnKQS5Qg1p01xKc1F3PWtowI2FQDwqisjvecBw",
+      "mux_asset_id" : "q6TlOwTZUKwbdy01ViRcm402zm9SiKUMNPkPr41zzN9tA",
       "volume_factor" : 1.0,
-      "date" : ""
+      "date" : "Ongoing"
     }
   },
   {
