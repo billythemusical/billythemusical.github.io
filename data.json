@@ -9,7 +9,8 @@
     "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
       "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
-      "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+      "mux_playback_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw",
+      "volume_factor" : 1.2
     }
   },
   {
@@ -42,7 +43,8 @@
       "aws": "https://buds-gallery.s3.amazonaws.com/video/nikhil-and-sara/time-place-culture.mp4",
       "alt": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
       "mux_playback_id": "O96Eg2d1qAzAB01spriGozRJlinLp8irpCAY9q44LJRk",
-      "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM"
+      "mux_asset_id" : "CZtPmpb1sv017aTwb1E3vyA7g315aTo1dRbvhZd8NRFM",
+      "volume_factor" : 0.5
     }
   },
   {
@@ -56,7 +58,8 @@
       "aws": "https://buds-gallery.s3.amazonaws.com/video/charlin/post-wonderland.mp4",
       "alt": "https://vimeo.com/521020816",
       "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
-      "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc"
+      "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc",
+      "volume_factor" : 0.5
     }
   },
   {
@@ -72,7 +75,8 @@
       "aws": "https://buds-gallery.s3.amazonaws.com/video/tinrey/cold-boiled-wonderland.mp4",
       "alt": "https://youtu.be/k9tZcBlquCg",
       "mux_playback_id": "jIPjhYtOYNnz2abdMXC4su7bE6ZbMsFUnhuz9GJExEI",
-      "mux_asset_id" : "uyigOa8jRiaZQjnQzWyE7v6y02mmoJuGWQ9aehPAAvig"
+      "mux_asset_id" : "uyigOa8jRiaZQjnQzWyE7v6y02mmoJuGWQ9aehPAAvig",
+      "volume_factor" : 1.0
     }
   },
   {
@@ -88,7 +92,8 @@
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
-      "mux_asset_id" : ""
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   },
   {
@@ -102,7 +107,8 @@
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
-      "mux_asset_id" : ""
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   },
   {
@@ -116,7 +122,8 @@
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
-      "mux_asset_id" : ""
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   },
   {
@@ -130,7 +137,8 @@
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
-      "mux_asset_id" : ""
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   },
   {
@@ -144,7 +152,8 @@
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
-      "mux_asset_id" : ""
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   },
   {
@@ -158,21 +167,8 @@
       "aws": "",
       "alt": "",
       "mux_playback_id": "",
-      "mux_asset_id" : ""
-    }
-  },
-  {
-    "project_id": "12",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "",
-    "images": [],
-    "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : ""
+      "mux_asset_id" : "",
+      "volume_factor" : 1.0
     }
   }
 ]
