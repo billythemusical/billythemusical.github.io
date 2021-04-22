@@ -1,22 +1,158 @@
 [
   {
   	"project_id": "1",
-  	"artist_name": "Pablo Picasso",
-  	"project_name": "The Old Guitarist",
-  	"elevator_pitch": "A small painting of an old guitarist, hunched over his instrument.",
-  	"description": "The Old Guitarist was painted in 1903, just after the suicide death of Picasso's close friend, Casagemas. During this time, the artist was sympathetic to the plight of the downtrodden and painted many canvases depicting the miseries of the poor, the ill, and those cast out of society. He too knew what it was like to be impoverished, having been nearly penniless during all of 1902. This work was created in Madrid, and the distorted style (note that the upper torso of the guitarist seems to be reclining, while the bottom half appears to be sitting cross-legged) is reminiscent of the works of El Greco.",
-    "website" : "https://google.com",
-  	"image": "https://m.media-amazon.com/images/I/71pYXY0cXDL._AC_SS450_.jpg",
-  	"video": "https://www.youtube.com/watch?v=SsRldh2cgVY"
+  	"artist_name": "Lu Lyu",
+  	"project_name": "2.5% Miracles",
+  	"description": "It is a piece of work about the miracles of nature. Because existence is reasonable, so we take every creature as resources for granted. But actually they are the multiplication of countless miracles of an extrenely slow process. This is a miracle of seeing a whale due to the moire effect of the two wood pieces when there is no human interference. The ambition of rotating the installation of human being's would make the miracle imperceptionable.",
+    "website" : "https://www.lu-lyu.com/portfolio/miracle/",
+  	"image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
   },
   {
   	"project_id": "2",
-  	"artist_name": "Joe Piscapo",
-  	"project_name": "The Young Guitarist",
-  	"elevator_pitch": "A large painting of an old guitarist, hunched over his instrument.",
-  	"description": "The Young Guitarist was painted in 1993, just after the suicide death of Picasso's close friend, Casagemas. During this time, the artist was sympathetic to the plight of the downtrodden and painted many canvases depicting the miseries of the poor, the ill, and those cast out of society. He too knew what it was like to be impoverished, having been nearly penniless during all of 1902. This work was created in Madrid, and the distorted style (note that the upper torso of the guitarist seems to be reclining, while the bottom half appears to be sitting cross-legged) is reminiscent of the works of El Greco.",
+  	"artist_name": "",
+  	"project_name": "",
+  	"description": "",
     "website" : "https://google.com",
-  	"image": "https://m.media-amazon.com/images/I/71pYXY0cXDL._AC_SS450_.jpg",
-  	"video": "https://www.youtube.com/watch?v=SsRldh2cgVY"
+  	"image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "3",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "4",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "5",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "6",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "7",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "8",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "9",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "10",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "11",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
+  },
+  {
+    "project_id": "12",
+    "artist_name": "",
+    "project_name": "",
+    "description": "",
+    "website" : "https://google.com",
+    "image": "",
+    "video": {
+      "aws": "https://buds-gallery.s3.amazonaws.com/25-miracle.mp4",
+      "alt": "https://www.youtube.com/watch?v=3ikAnjM0UHw",
+      "mux_stream_id": "8U02IoGUGN82ayWUCoHowhLQC8EYZej9CY5H00k49TlLw"
+    }
   }
 ]
