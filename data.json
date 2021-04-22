@@ -136,7 +136,7 @@
       "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(3).jpg",
       "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(4).jpg",
       "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(5).jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg",
+      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg"
     ],
     "videos": {
       "aws": "https://buds-gallery.s3.amazonaws.com/video/huh/whale-story.mp4",
@@ -171,7 +171,7 @@
   },
   {
     "project_id": "10",
-    "artist_name": "",
+    "artist_name": "Aidan Lincoln",
     "project_name": "",
     "description": "",
     "website" : "",
