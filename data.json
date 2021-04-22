@@ -149,16 +149,22 @@
   },
   {
     "project_id": "9",
-    "artist_name": "",
-    "project_name": "",
-    "description": "",
-    "website" : "",
-    "images": [],
+    "artist_name": "Viola He",
+    "project_name": "yes",
+    "description": "Inspired by a (much needed) trip into the mountains, I was intrigued by natural elements that have complex, circuitry-like systems: moss, tree, fire, millipedes... and how human machines have been imitating them. As an exploration of the relationship between “organic” hardwares and “artificial” nature,  Spherical Landscaping is an interactive freeform circuit sculpture that connects the physical artefact to a digital scenery projection.<br><br>On a table surrounded by real plants, the clear sphere glows and dims in rhythm when placed in idle, and lights up when picked up. The digital sketch in the browser projected on a wall, resembling a forrest in daylight, changes color and lighting as the human rotates the sphere, indicating the changing time of day.",
+    "website" : "https://itp.leqihe.online/2020/11/09/p-com-project-2-ecosphere/",
+    "images": [
+      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical1+-+Viola+He.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical2+-+Viola+He.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical3+-+Viola+He.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical4+-+Viola+He.jpg",
+      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical5+-+Viola+He.jpg"
+    ],
     "videos": {
-      "aws": "",
-      "alt": "",
-      "mux_playback_id": "",
-      "mux_asset_id" : "",
+      "aws": "https://buds-gallery.s3.amazonaws.com/video/viola/yes.mp4",
+      "alt": "https://vimeo.com/478172230",
+      "mux_playback_id": "ir005TOf7EGtPpceXjNylia01XQRTU301mceNbKJGOwRKA",
+      "mux_asset_id" : "vvktgsk01Zi9186GbMEYJdCtMuMB1hMfKc41z2cjhxps",
       "volume_factor" : 1.0,
       "date" : ""
     }
