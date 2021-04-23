@@ -194,14 +194,16 @@
     "description": "Star Tunnel is a physical light sculpture consisting of a 448x32 pixel circular screen embedded inside of an infinity mirror. The video playing on the led screens is a particle system designed to look like the night sky. The particles are influenced by algorithms simulating natural phenomena such as wind and turbulent flow and are then pushed through  a moving 'window' to create an illusions that you are moving through a tunnel of stars.",
     "website" : "https://www.aidanlincoln.com/thesis",
     "images": [],
-    "videos": {
-      "aws": "https://buds-gallery.undefined/video/aidan/StarTunnel.mp4",
-      "alt": "https://youtu.be/KBhgKugrE0Q",
-      "mux_playback_id": "lY7YYrD2zXHsHpIWUD902U01UGic9D7AGaG92z2nIZX5A",
-      "mux_asset_id" : "TXn5aUd4v02yoFS01zCXrFWUKcwXyQkUZ3CGy1bel91kE",
-      "volume_factor" : 1.0,
-      "date" : "2021"
-    }
+    "videos": [
+      {
+        "aws": "https://buds-gallery.undefined/video/aidan/StarTunnel.mp4",
+        "alt": "https://youtu.be/KBhgKugrE0Q",
+        "mux_playback_id": "lY7YYrD2zXHsHpIWUD902U01UGic9D7AGaG92z2nIZX5A",
+        "mux_asset_id" : "TXn5aUd4v02yoFS01zCXrFWUKcwXyQkUZ3CGy1bel91kE",
+        "volume_factor" : 1.0
+      }
+    ],
+    "date" : "2021"
   },
   {
     "project_id": "11",
