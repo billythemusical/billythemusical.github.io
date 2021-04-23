@@ -214,15 +214,15 @@
       {
         "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro002.mp4",
         "alt": "",
-        "mux_playback_id": "",
-        "mux_asset_id" : "",
+        "mux_playback_id": "6pWm01PhO00dHGo4NassaOz00GUCzUT6dEttk3WXBu3FeQ",
+        "mux_asset_id" : "8NBZwl5CdnBUm4023l02PVhjn4qJVIScj02I8EKdRPX2lY",
         "volume_factor" : 1.0
       },
       {
         "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro004.mp4",
         "alt": "",
-        "mux_playback_id": "",
-        "mux_asset_id" : "",
+        "mux_playback_id": "9KBhVBsD74Gh84nR12MT1M3wTfbHHdoatjLG1xcC01dw",
+        "mux_asset_id" : "mawOKx01bTqUPNZWwLgs7KuV1eh8Pq7t302KQUg014YRpw",
         "volume_factor" : 1.0
       }
     ],
