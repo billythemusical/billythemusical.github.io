@@ -30,15 +30,7 @@
       "https://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
       "https://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
     ],
-    "videos": [
-      {
-        "aws": "",
-        "alt": "",
-        "mux_playback_id": "",
-        "mux_asset_id" : "",
-        "volume_factor" : 1.0
-      }
-    ],
+    "videos": [],
     "date" : ""
   },
   {
@@ -106,15 +98,7 @@
     "images": [
       "https://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
     ],
-    "videos": [
-      {
-        "aws": "",
-        "alt": "",
-        "mux_playback_id": "",
-        "mux_asset_id" : "",
-        "volume_factor" : 1.0
-      }
-    ],
+    "videos": [],
     "date" : ""
   },
   {
