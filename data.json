@@ -64,7 +64,7 @@
         "alt": "https://vimeo.com/521020816",
         "mux_playback_id": "dAOko00f01e00FqYrTexQb7yttCDa7EAZKwibzrZycK7Eg",
         "mux_asset_id" : "fNyPdbMvJi66yzpdXzxqmSC102hFyTcK02EH7SGWcZ8Oc",
-        "volume_factor" : 0.8
+        "volume_factor" : 0.99
       }
     ],
     "date" : ""
@@ -84,7 +84,7 @@
         "alt": "https://youtu.be/k9tZcBlquCg",
         "mux_playback_id": "yBM00uTmmjHWvwcHSpJ02PNcay9eDwS44EBBUc7rUsYug",
         "mux_asset_id" : "xcPnoRlZQtH1Fm8LHHieMf02csSnabC5po6bNf3Ynxqc",
-        "volume_factor" : 0.75
+        "volume_factor" : 0.9
       }
     ],
     "date" : ""
@@ -166,7 +166,7 @@
         "alt": "https://vimeo.com/478172230",
         "mux_playback_id": "ir005TOf7EGtPpceXjNylia01XQRTU301mceNbKJGOwRKA",
         "mux_asset_id" : "vvktgsk01Zi9186GbMEYJdCtMuMB1hMfKc41z2cjhxps",
-        "volume_factor" : 0.9
+        "volume_factor" : 0.99
       }
     ],
     "date" : ""
@@ -216,7 +216,7 @@
         "alt": "",
         "mux_playback_id": "W17Su01NuoGUZFVRZ4TCc1pPagDILiLLz7CB1q2mVHrQ",
         "mux_asset_id" : "jBPXE1F001zKxlXSQ5ADBUsZTc02Y00sNX7rctwiTEiTd4",
-        "volume_factor" : 0.9
+        "volume_factor" : 0.85
       },
       {
         "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro004.mp4",
