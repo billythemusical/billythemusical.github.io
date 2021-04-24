@@ -52,7 +52,7 @@
     "date" : ""
   },
   {
-    "project_id": "11",
+    "project_id": 11,
     "artist_name": "Charlin Wu",
     "project_name": "Post Wonderland 1.0",
     "description": "Post Wonderland 1.0 is the first production of the on-going experimental project “Post Wonderland” that explores the potential relationship between a fantasized post-human civilization and nature. The project is inspired by the collision and contradictory development of human civilization, technology, and natural elements in present society. Artistically depicting a virtual parallel era in which most of human civilization has been annihilated, nature and the ruins of technology become the center of the world.",
@@ -172,7 +172,7 @@
     "date" : ""
   },
   {
-    "project_id": "10",
+    "project_id": 10,
     "artist_name": "Aidan Lincoln",
     "project_name": "",
     "description": "Star Tunnel is a physical light sculpture consisting of a 448x32 pixel circular screen embedded inside of an infinity mirror. The video playing on the led screens is a particle system designed to look like the night sky. The particles are influenced by algorithms simulating natural phenomena such as wind and turbulent flow and are then pushed through  a moving 'window' to create an illusions that you are moving through a tunnel of stars.",
