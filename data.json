@@ -25,10 +25,10 @@
     "website" : "https://www.instagram.com/the_second_first_impression/?hl=en",
   	"images": [
       "http://buds-gallery.s3.amazonaws.com/images/dalit/day+1+-+Dalit+Steinbrecher+small.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+21+-+Dalit+Steinbrecher.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+42+-+Dalit+Steinbrecher.JPG",
-      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+21+-+Dalit+Steinbrecher.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+42+-+Dalit+Steinbrecher.JPG",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
     ],
     "videos": [],
     "date" : ""
@@ -38,7 +38,7 @@
     "artist_name": "Nikhil Kumar and Sara Nejad",
     "project_name": "",
     "description": "Our project is a reflection on the possibilities of microbiomes to be used as a form of cultural archive. Based on the emerging science linking microbiomes to terroir in wine and other foods, we imagine a future where we can capture place and time with the microorganisms living in that moment.",
-    "website" : "https://www.timeplaceculture.com",
+    "website" : "http://www.timeplaceculture.com",
     "images": [],
     "videos": [
       {
@@ -76,7 +76,7 @@
     "description": "In Cold-Boiled Wonderland, Wang was trying to use visual languages to depict a desolate post-apocalyptic world where most of species had gone extinct and civilizations had become ruins and sands due to environmental damage. However, from the ruins new life starts to be born as a flower blooms from the ground.",
     "website" : "",
     "images": [
-      "https://buds-gallery.s3.amazonaws.com/images/tinrey/cover+-+Tinrey+Wang.jpg"
+      "http://buds-gallery.s3.amazonaws.com/images/tinrey/cover+-+Tinrey+Wang.jpg"
     ],
     "videos": [
       {
@@ -96,7 +96,7 @@
     "description": "This is an evolution graph of weather forecasting robots from 2021 to apocalypse. The relationship between technology and climate change is a reinforcing loop. As we advance our technology, the greater climate change will be; the more severe climate change is, the more we need to proceed on advancing technology.",
     "website" : "",
     "images": [
-      "https://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
+      "http://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
     ],
     "videos": [],
     "date" : ""
@@ -108,7 +108,7 @@
     "description": "An interactive audio experience that creates a symphony of field recordings from the sun and us.<br><br>Nature has always been a part I want to explore. When I was little, I went to the park near our home with my grandma frequently. The wind blowing through the willows, the birds bringing their music while flying, and the people chatting and laughing are so interesting to me. They are like a symphony. Yet, as I grow older, I spend less time in the park, or with the nature. I want to forever remember the memory I had when I was little, with my grandma, playing, and listening to the sounds.<br><br>That’s why I want to recreate that experience for me, for you, and for all of us who yearns for connections with people, nature, and within.",
     "website" : "https://sunandus.netlify.app/",
     "images": [
-      "https://buds-gallery.s3.amazonaws.com/images/yiting/sunandus_demo+-+Yiting+Liu.png"
+      "http://buds-gallery.s3.amazonaws.com/images/yiting/sunandus_demo+-+Yiting+Liu.png"
     ],
     "videos": [
       {
@@ -128,13 +128,13 @@
     "description": "The Whale Story is designed for the American Museum of Natural History. It is an AR experience bringing users into the ocean, and it allows users to bring whales back to life under the gigantic blue whale model in the Hall of Ocean Life.<br><br>Users can learn about the behaviors of blue whales by observing how a blue whale swims around the hall and feeds on krill. When the blue whale eats, it accelerates first. Then, it takes in a huge amount of water, engulfing krill.  Finally, it expels the water during the filtering phase.<br><br>Users can also learn what we can do to protect the blue whale from ocean pollution. Blue whales are facing environmental issues. The ocean is polluted by our plastic wastes. Micro-plastics are everywhere in the ocean, accumulating inside krill. We want to convey that we can protect our ocean and the earth from little but essential actions.",
     "website" : "https://drive.google.com/file/d/1O2GMu88a6D9ju-4jqQLmVrdeeEiVn0TT/view?usp=sharing",
     "images": [
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds.jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(1).jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(2).jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(3).jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(4).jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(5).jpg",
-      "https://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg"
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds.jpg",
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(1).jpg",
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(2).jpg",
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(3).jpg",
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(4).jpg",
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(5).jpg",
+      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg"
     ],
     "videos": [
       {
@@ -154,11 +154,11 @@
     "description": "Inspired by a (much needed) trip into the mountains, I was intrigued by natural elements that have complex, circuitry-like systems: moss, tree, fire, millipedes... and how human machines have been imitating them. As an exploration of the relationship between “organic” hardwares and “artificial” nature,  Spherical Landscaping is an interactive freeform circuit sculpture that connects the physical artefact to a digital scenery projection.<br><br>On a table surrounded by real plants, the clear sphere glows and dims in rhythm when placed in idle, and lights up when picked up. The digital sketch in the browser projected on a wall, resembling a forrest in daylight, changes color and lighting as the human rotates the sphere, indicating the changing time of day.",
     "website" : "https://itp.leqihe.online/2020/11/09/p-com-project-2-ecosphere/",
     "images": [
-      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical1+-+Viola+He.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical2+-+Viola+He.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical3+-+Viola+He.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical4+-+Viola+He.jpg",
-      "https://buds-gallery.s3.amazonaws.com/images/viola/spherical5+-+Viola+He.jpg"
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical1+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical2+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical3+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical4+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical5+-+Viola+He.jpg"
     ],
     "videos": [
       {
@@ -196,19 +196,19 @@
     "description": "With an understanding of cooking as repertoire (i.e., an embodied archive of knowledge), I created an apron using dried tomatoes, a plant native to the Americas. In a live performance in May 2019, I donned the tomato apron over a modest dress and reconstituted the garment into tomato sauce to serve with corn polenta in real time. The performance was meant to evoke the history of dispossession within the Americas by the European conquest and invites all present to consume the literal fruits of my labor. It is an interruption of the displacement of knowledge that is recreated in every pot of marinara. At the same time, it celebrates the centuries of feminized, domestic labor that is the work of sustaining appetites, memory, and community even through migration. Through the making of the tomato-garment, I deconstruct and reform the seemingly fixed reality of the tomato. Through the making of the sauce in communion around the hearth (or, in this case, a hotplate), the participants reconstitute the traumas of our pasts into a new, shared future.",
     "website" : "",
     "images": [
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro001.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro003.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro005.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro006.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro007.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro008.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro009.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro010.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro011.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro012.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro013.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro014.jpeg",
-      "https://buds-gallery.s3.amazonaws.com/images/mary/pomodoro015.jpeg"
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro001.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro003.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro005.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro006.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro007.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro008.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro009.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro010.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro011.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro012.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro013.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro014.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro015.jpeg"
     ],
     "videos": [
       {
