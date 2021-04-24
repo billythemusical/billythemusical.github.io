@@ -1,4 +1,4 @@
-[
+ [
   {
   	"project_id": "1",
   	"artist_name": "Lu Lyu",
@@ -24,11 +24,11 @@
   	"description": "“The second first impression” is a project that created for the “100 day in the making” class. For the last one hundred days I dyed, tore, sewed, glued, folded and did various manipulations on existing images. The images were from magazines and vintage postcards I found on flea markets. I wanted to recycle an existing image - take it as is - manipulate it - and through that, given it a new meaning. The creation process is never final, we can keep creating from previous creations. I hope someone will take this project and recycle it as well.",
     "website" : "https://www.instagram.com/the_second_first_impression/?hl=en",
   	"images": [
-      "dalit/day+1+-+Dalit+Steinbrecher+small.jpg",
-      "dalit/day+21+-+Dalit+Steinbrecher.jpg",
-      "dalit/day+42+-+Dalit+Steinbrecher.JPG",
-      "dalit/day+54+-+Dalit+Steinbrecher.jpg",
-      "dalit/day+80+-+Dalit+Steinbrecher.JPG"
+      "dalit/day 1 - Dalit Steinbrecher small.jpg",
+      "dalit/day 21 - Dalit Steinbrecher.jpg",
+      "dalit/day 42 - Dalit Steinbrecher.JPG",
+      "dalit/day 54 - Dalit Steinbrecher.jpg",
+      "dalit/day 80 - Dalit Steinbrecher.JPG"
     ],
     "videos": [],
     "date" : ""
@@ -76,7 +76,7 @@
     "description": "In Cold-Boiled Wonderland, Wang was trying to use visual languages to depict a desolate post-apocalyptic world where most of species had gone extinct and civilizations had become ruins and sands due to environmental damage. However, from the ruins new life starts to be born as a flower blooms from the ground.",
     "website" : "",
     "images": [
-      "tinrey/cover+-+Tinrey+Wang.jpg"
+      "tinrey/cover - Tinrey+Wang.jpg"
     ],
     "videos": [
       {
@@ -96,7 +96,7 @@
     "description": "This is an evolution graph of weather forecasting robots from 2021 to apocalypse. The relationship between technology and climate change is a reinforcing loop. As we advance our technology, the greater climate change will be; the more severe climate change is, the more we need to proceed on advancing technology.",
     "website" : "",
     "images": [
-      "reto/EditedWeatherRobot+-+Reto+Chen.jpg"
+      "reto/EditedWeatherRobot - Reto Chen.jpg"
     ],
     "videos": [],
     "date" : ""
@@ -108,7 +108,7 @@
     "description": "An interactive audio experience that creates a symphony of field recordings from the sun and us.<br><br>Nature has always been a part I want to explore. When I was little, I went to the park near our home with my grandma frequently. The wind blowing through the willows, the birds bringing their music while flying, and the people chatting and laughing are so interesting to me. They are like a symphony. Yet, as I grow older, I spend less time in the park, or with the nature. I want to forever remember the memory I had when I was little, with my grandma, playing, and listening to the sounds.<br><br>That’s why I want to recreate that experience for me, for you, and for all of us who yearns for connections with people, nature, and within.",
     "website" : "https://sunandus.netlify.app/",
     "images": [
-      "yiting/sunandus_demo+-+Yiting+Liu.png"
+      "yiting/sunandus_demo - Yiting Liu.png"
     ],
     "videos": [
       {
@@ -128,13 +128,13 @@
     "description": "The Whale Story is designed for the American Museum of Natural History. It is an AR experience bringing users into the ocean, and it allows users to bring whales back to life under the gigantic blue whale model in the Hall of Ocean Life.<br><br>Users can learn about the behaviors of blue whales by observing how a blue whale swims around the hall and feeds on krill. When the blue whale eats, it accelerates first. Then, it takes in a huge amount of water, engulfing krill.  Finally, it expels the water during the filtering phase.<br><br>Users can also learn what we can do to protect the blue whale from ocean pollution. Blue whales are facing environmental issues. The ocean is polluted by our plastic wastes. Micro-plastics are everywhere in the ocean, accumulating inside krill. We want to convey that we can protect our ocean and the earth from little but essential actions.",
     "website" : "https://drive.google.com/file/d/1O2GMu88a6D9ju-4jqQLmVrdeeEiVn0TT/view?usp=sharing",
     "images": [
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds.jpg",
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(1).jpg",
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(2).jpg",
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(3).jpg",
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(4).jpg",
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(5).jpg",
-      "http://buds-gallery.undefined/images/huh/The+whale+story_+Buds+(6).jpg"
+      "huh/The whale story_ Buds.jpg",
+      "huh/The whale story_ Buds (1).jpg",
+      "huh/The whale story_ Buds (2).jpg",
+      "huh/The whale story_ Buds (3).jpg",
+      "huh/The whale story_ Buds (4).jpg",
+      "huh/The whale story_ Buds (5).jpg",
+      "huh/The whale story_ Buds (6).jpg"
     ],
     "videos": [
       {
@@ -154,11 +154,11 @@
     "description": "Inspired by a (much needed) trip into the mountains, I was intrigued by natural elements that have complex, circuitry-like systems: moss, tree, fire, millipedes... and how human machines have been imitating them. As an exploration of the relationship between “organic” hardwares and “artificial” nature,  Spherical Landscaping is an interactive freeform circuit sculpture that connects the physical artefact to a digital scenery projection.<br><br>On a table surrounded by real plants, the clear sphere glows and dims in rhythm when placed in idle, and lights up when picked up. The digital sketch in the browser projected on a wall, resembling a forrest in daylight, changes color and lighting as the human rotates the sphere, indicating the changing time of day.",
     "website" : "https://itp.leqihe.online/2020/11/09/p-com-project-2-ecosphere/",
     "images": [
-      "viola/spherical1+-+Viola+He.jpg",
-      "viola/spherical2+-+Viola+He.jpg",
-      "viola/spherical3+-+Viola+He.jpg",
-      "viola/spherical4+-+Viola+He.jpg",
-      "viola/spherical5+-+Viola+He.jpg"
+      "viola/spherical1 - Viola He.jpg",
+      "viola/spherical2 - Viola He.jpg",
+      "viola/spherical3 - Viola He.jpg",
+      "viola/spherical4 - Viola He.jpg",
+      "viola/spherical5 - Viola He.jpg"
     ],
     "videos": [
       {
