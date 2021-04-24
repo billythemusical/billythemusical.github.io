@@ -24,11 +24,11 @@
   	"description": "“The second first impression” is a project that created for the “100 day in the making” class. For the last one hundred days I dyed, tore, sewed, glued, folded and did various manipulations on existing images. The images were from magazines and vintage postcards I found on flea markets. I wanted to recycle an existing image - take it as is - manipulate it - and through that, given it a new meaning. The creation process is never final, we can keep creating from previous creations. I hope someone will take this project and recycle it as well.",
     "website" : "https://www.instagram.com/the_second_first_impression/?hl=en",
   	"images": [
-      "dalit/day+1+-+Dalit+Steinbrecher+small.jpg",
-      "dalit/day+21+-+Dalit+Steinbrecher.jpg",
-      "dalit/day+42+-+Dalit+Steinbrecher.JPG",
-      "dalit/day+54+-+Dalit+Steinbrecher.jpg",
-      "dalit/day+80+-+Dalit+Steinbrecher.JPG"
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+1+-+Dalit+Steinbrecher+small.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+21+-+Dalit+Steinbrecher.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+42+-+Dalit+Steinbrecher.JPG",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+54+-+Dalit+Steinbrecher.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/dalit/day+80+-+Dalit+Steinbrecher.JPG"
     ],
     "videos": [],
     "date" : ""
@@ -76,7 +76,7 @@
     "description": "In Cold-Boiled Wonderland, Wang was trying to use visual languages to depict a desolate post-apocalyptic world where most of species had gone extinct and civilizations had become ruins and sands due to environmental damage. However, from the ruins new life starts to be born as a flower blooms from the ground.",
     "website" : "",
     "images": [
-      "tinrey/cover+-+Tinrey+Wang.jpg"
+      "http://buds-gallery.s3.amazonaws.com/images/tinrey/cover+-+Tinrey+Wang.jpg"
     ],
     "videos": [
       {
@@ -96,7 +96,7 @@
     "description": "This is an evolution graph of weather forecasting robots from 2021 to apocalypse. The relationship between technology and climate change is a reinforcing loop. As we advance our technology, the greater climate change will be; the more severe climate change is, the more we need to proceed on advancing technology.",
     "website" : "",
     "images": [
-      "reto/EditedWeatherRobot+-+Reto+Chen.jpg"
+      "http://buds-gallery.s3.amazonaws.com/images/reto/EditedWeatherRobot+-+Reto+Chen.jpg"
     ],
     "videos": [],
     "date" : ""
@@ -108,7 +108,7 @@
     "description": "An interactive audio experience that creates a symphony of field recordings from the sun and us.<br><br>Nature has always been a part I want to explore. When I was little, I went to the park near our home with my grandma frequently. The wind blowing through the willows, the birds bringing their music while flying, and the people chatting and laughing are so interesting to me. They are like a symphony. Yet, as I grow older, I spend less time in the park, or with the nature. I want to forever remember the memory I had when I was little, with my grandma, playing, and listening to the sounds.<br><br>That’s why I want to recreate that experience for me, for you, and for all of us who yearns for connections with people, nature, and within.",
     "website" : "https://sunandus.netlify.app/",
     "images": [
-      "yiting/sunandus_demo+-+Yiting+Liu.png"
+      "http://buds-gallery.s3.amazonaws.com/images/yiting/sunandus_demo+-+Yiting+Liu.png"
     ],
     "videos": [
       {
@@ -154,11 +154,11 @@
     "description": "Inspired by a (much needed) trip into the mountains, I was intrigued by natural elements that have complex, circuitry-like systems: moss, tree, fire, millipedes... and how human machines have been imitating them. As an exploration of the relationship between “organic” hardwares and “artificial” nature,  Spherical Landscaping is an interactive freeform circuit sculpture that connects the physical artefact to a digital scenery projection.<br><br>On a table surrounded by real plants, the clear sphere glows and dims in rhythm when placed in idle, and lights up when picked up. The digital sketch in the browser projected on a wall, resembling a forrest in daylight, changes color and lighting as the human rotates the sphere, indicating the changing time of day.",
     "website" : "https://itp.leqihe.online/2020/11/09/p-com-project-2-ecosphere/",
     "images": [
-      "viola/spherical1+-+Viola+He.jpg",
-      "viola/spherical2+-+Viola+He.jpg",
-      "viola/spherical3+-+Viola+He.jpg",
-      "viola/spherical4+-+Viola+He.jpg",
-      "viola/spherical5+-+Viola+He.jpg"
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical1+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical2+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical3+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical4+-+Viola+He.jpg",
+      "http://buds-gallery.s3.amazonaws.com/images/viola/spherical5+-+Viola+He.jpg"
     ],
     "videos": [
       {
@@ -196,33 +196,33 @@
     "description": "With an understanding of cooking as repertoire (i.e., an embodied archive of knowledge), I created an apron using dried tomatoes, a plant native to the Americas. In a live performance in May 2019, I donned the tomato apron over a modest dress and reconstituted the garment into tomato sauce to serve with corn polenta in real time. The performance was meant to evoke the history of dispossession within the Americas by the European conquest and invites all present to consume the literal fruits of my labor. It is an interruption of the displacement of knowledge that is recreated in every pot of marinara. At the same time, it celebrates the centuries of feminized, domestic labor that is the work of sustaining appetites, memory, and community even through migration. Through the making of the tomato-garment, I deconstruct and reform the seemingly fixed reality of the tomato. Through the making of the sauce in communion around the hearth (or, in this case, a hotplate), the participants reconstitute the traumas of our pasts into a new, shared future.",
     "website" : "",
     "images": [
-      "mary/pomodoro001.jpeg",
-      "mary/pomodoro003.jpeg",
-      "mary/pomodoro005.jpeg",
-      "mary/pomodoro006.jpeg",
-      "mary/pomodoro007.jpeg",
-      "mary/pomodoro008.jpeg",
-      "mary/pomodoro009.jpeg",
-      "mary/pomodoro010.jpeg",
-      "mary/pomodoro011.jpeg",
-      "mary/pomodoro012.jpeg",
-      "mary/pomodoro013.jpeg",
-      "mary/pomodoro014.jpeg",
-      "mary/pomodoro015.jpeg"
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro001.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro003.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro005.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro006.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro007.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro008.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro009.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro010.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro011.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro012.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro013.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro014.jpeg",
+      "http://buds-gallery.s3.amazonaws.com/images/mary/pomodoro015.jpeg"
     ],
     "videos": [
       {
         "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro002.mp4",
         "alt": "",
-        "mux_playback_id": "W17Su01NuoGUZFVRZ4TCc1pPagDILiLLz7CB1q2mVHrQ",
-        "mux_asset_id" : "jBPXE1F001zKxlXSQ5ADBUsZTc02Y00sNX7rctwiTEiTd4",
+        "mux_playback_id": "6pWm01PhO00dHGo4NassaOz00GUCzUT6dEttk3WXBu3FeQ",
+        "mux_asset_id" : "8NBZwl5CdnBUm4023l02PVhjn4qJVIScj02I8EKdRPX2lY",
         "volume_factor" : 1.0
       },
       {
         "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro004.mp4",
         "alt": "",
-        "mux_playback_id": "hiB8oVtvBOgr7zfqJ5rpzLk45RSxoPmg8MF6FrFUP02A",
-        "mux_asset_id" : "eS7DE701BfIyWyIbolHi3Sf02BfsBzxqYymnQ4F9AkMOM",
+        "mux_playback_id": "9KBhVBsD74Gh84nR12MT1M3wTfbHHdoatjLG1xcC01dw",
+        "mux_asset_id" : "mawOKx01bTqUPNZWwLgs7KuV1eh8Pq7t302KQUg014YRpw",
         "volume_factor" : 1.0
       }
     ],
