@@ -15,7 +15,7 @@
         "volume_factor" : 1.0
       }
     ],
-    "date" : "December 2020"
+    "date": "December 2020"
   },
   {
   	"project_id": 3,
@@ -150,7 +150,7 @@
   {
     "project_id": 7,
     "artist_name": "Viola He",
-    "project_name": "yes",
+    "project_name": "Spherical Landscaping",
     "description": "Inspired by a (much needed) trip into the mountains, I was intrigued by natural elements that have complex, circuitry-like systems: moss, tree, fire, millipedes... and how human machines have been imitating them. As an exploration of the relationship between “organic” hardwares and “artificial” nature,  Spherical Landscaping is an interactive freeform circuit sculpture that connects the physical artefact to a digital scenery projection.<br><br>On a table surrounded by real plants, the clear sphere glows and dims in rhythm when placed in idle, and lights up when picked up. The digital sketch in the browser projected on a wall, resembling a forrest in daylight, changes color and lighting as the human rotates the sphere, indicating the changing time of day.",
     "website" : "https://itp.leqihe.online/2020/11/09/p-com-project-2-ecosphere/",
     "images": [
@@ -174,8 +174,8 @@
   {
     "project_id": 10,
     "artist_name": "Aidan Lincoln",
-    "project_name": "",
-    "description": "Star Tunnel is a physical light sculpture consisting of a 448x32 pixel circular screen embedded inside of an infinity mirror. The video playing on the led screens is a particle system designed to look like the night sky. The particles are influenced by algorithms simulating natural phenomena such as wind and turbulent flow and are then pushed through a moving "window" to create an illusion that you are moving through a tunnel of stars.",
+    "project_name": "Star Tunnel",
+    "description": "Star Tunnel is a physical light sculpture consisting of a 448x32 pixel circular screen embedded inside of an infinity mirror. The video playing on the led screens is a particle system designed to look like the night sky. The particles are influenced by algorithms simulating natural phenomena such as wind and turbulent flow and are then pushed through a moving 'window' to create an illusion that you are moving through a tunnel of stars.",
     "website" : "https://www.aidanlincoln.com/thesis",
     "images": [],
     "videos": [
