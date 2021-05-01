@@ -84,7 +84,7 @@
         "alt": "https://youtu.be/k9tZcBlquCg",
         "mux_playback_id": "yBM00uTmmjHWvwcHSpJ02PNcay9eDwS44EBBUc7rUsYug",
         "mux_asset_id" : "xcPnoRlZQtH1Fm8LHHieMf02csSnabC5po6bNf3Ynxqc",
-        "volume_factor" : 0.9
+        "volume_factor" : 0.99
       }
     ],
     "date" : "March 2021"
@@ -216,14 +216,14 @@
         "alt": "",
         "mux_playback_id": "W17Su01NuoGUZFVRZ4TCc1pPagDILiLLz7CB1q2mVHrQ",
         "mux_asset_id" : "jBPXE1F001zKxlXSQ5ADBUsZTc02Y00sNX7rctwiTEiTd4",
-        "volume_factor" : 0.85
+        "volume_factor" : 0.99
       },
       {
         "aws": "https://buds-gallery.s3.amazonaws.com/video/mary/pomodoro004.mp4",
         "alt": "",
         "mux_playback_id": "hiB8oVtvBOgr7zfqJ5rpzLk45RSxoPmg8MF6FrFUP02A",
         "mux_asset_id" : "eS7DE701BfIyWyIbolHi3Sf02BfsBzxqYymnQ4F9AkMOM",
-        "volume_factor" : 0.9
+        "volume_factor" : 0.99
       }
     ],
     "date" : "May 9, 2019"
